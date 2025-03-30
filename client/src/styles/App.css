@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+#root {
+    width: 100%;
+    padding: 2rem;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    --primary-color: #e50914;
+    --primary-color-rgb: 299, 9, 20;
+    --hover-color: #b40710;
+    --border-radius: 7px;
+}
